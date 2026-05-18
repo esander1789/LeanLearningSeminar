@@ -1,11 +1,11 @@
 **Lean Specific Readings**
 
-- [[Instructions for Installing
-  Lean](https://lean-lang.org/install/)]
+- [Instructions for Installing
+  Lean](https://lean-lang.org/install/)
 
-- [[Mathematics in Lean
-  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)]
-
+- [Mathematics in Lean
+  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)
+  
 <!-- -->
 
 - [Annals of Formalized
