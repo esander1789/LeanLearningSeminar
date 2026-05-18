@@ -1,43 +1,43 @@
 **Lean Specific Readings**
 
 - [[Instructions for Installing
-  Lean](https://lean-lang.org/install/)]{.underline}
+  Lean](https://lean-lang.org/install/)]
 
 - [[Mathematics in Lean
-  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)]{.underline}
+  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)]
 
 <!-- -->
 
 - [[Annals of Formalized
-  Math](https://afm.episciences.org/)]{.underline}
+  Math](https://afm.episciences.org/)]
 
 - [[Journal of Automated
-  Reasoning](https://link.springer.com/journal/10817)]{.underline}
+  Reasoning](https://link.springer.com/journal/10817)]
 
 - [[Interactive Theorem Proving
-  Conference](https://itp-conference.github.io/)]{.underline}
+  Conference](https://itp-conference.github.io/)]
 
 - [[Certified Programs and Proofs
-  Conference](https://sigplan.org/Conferences/CPP/)]{.underline}
+  Conference](https://sigplan.org/Conferences/CPP/)]
 
 - [Conference on Intelligent Computer
   Mathematics](https://cicm-conference.org/cicm.php)
 
 - [[Theorem Proving in
-  Lean](https://leanprover.github.io/theorem_proving_in_lean4/)]{.underline}
+  Lean](https://leanprover.github.io/theorem_proving_in_lean4/)]
 
 - [[A List of Papers about Lean, Mathlib, and Formalized
-  Proofs](https://leanprover-community.github.io/papers.html)]{.underline}
+  Proofs](https://leanprover-community.github.io/papers.html)]
    (from the Lean Prover Community) 
 
 - [[How to Find Theorems in Math
-  lib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/)]{.underline}
+  lib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/)]
 
 - [[Lean Prover
-  Community](https://leanprover-community.github.io/)]{.underline}
+  Community](https://leanprover-community.github.io/)]
   includes a lot of links to proved theorems
 
-- [[leanprover.zulipchat.com](http://leanprover.zulipchat.com/)]{.underline},
+- [[leanprover.zulipchat.com](http://leanprover.zulipchat.com/)],
   in the #math channel is a discussion board on Lean
 
 - [How to contribute to
@@ -49,26 +49,26 @@
 
 - T. Tao, Machine-Assisted Proof, Notices of the American Mathematical
   Society, 72 (2025), No. 1, 6-13.
-  [[Link](https://www.ams.org/notices/202501/rnoti-p6.pdf)]{.underline}
+  [[Link](https://www.ams.org/notices/202501/rnoti-p6.pdf)]
 
 - Quantum Magazine Articles
-  [[Link](https://www.quantamagazine.org/tag/computer-assisted-proofs/)]{.underline}
+  [[Link](https://www.quantamagazine.org/tag/computer-assisted-proofs/)]
 
 - Using AI, Mathematicians Find Hidden Glitches in Fluid Equations,
   Quanta Magazine (2026).
-  [[Link](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)]{.underline}
+  [[Link](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)]
 
 - A. Nazaryan, Can A.I. Quicken the Pace of Math Discovery? New York
   Times (2025).
-   [[Link](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html)]{.underline}
+   [[Link](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html)]
 
 - DeepSeek's self-correcting AI model aces tough maths proofs,
   Nature (2025)
-  [[Link](https://www.nature.com/articles/d41586-025-03959-9)]{.underline}
+  [[Link](https://www.nature.com/articles/d41586-025-03959-9)]
 
 - S. Roberts, These Mathematicians Are Putting A.I. to the Test, New
   York Times, February 7, 2026.
-  [[Link](https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html)]{.underline}
+  [[Link](https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html)]
 
 - Alex Kontorovich, The Shape of Math To Come, to appear, Proceedings of
-  the ICM, 2026. [[Link](https://arxiv.org/abs/2510.15924)]{.underline}
+  the ICM, 2026. [[Link](https://arxiv.org/abs/2510.15924)]
