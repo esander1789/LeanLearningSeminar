@@ -30,11 +30,9 @@
   Proofs](https://leanprover-community.github.io/papers.html)
    (from the Lean Prover Community) 
 
-- [How to Find Theorems in Math
-  lib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/)
+- [How to Find Theorems in Mathlib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/)
 
-- [Lean Prover
-  Community](https://leanprover-community.github.io/)
+- [Lean Prover  Community](https://leanprover-community.github.io/)
   includes a lot of links to proved theorems
 
 - [leanprover.zulipchat.com](http://leanprover.zulipchat.com/),
