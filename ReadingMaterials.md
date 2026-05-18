@@ -52,7 +52,7 @@
 
 - [Quantum Magazine Articles](https://www.quantamagazine.org/tag/computer-assisted-proofs/)
 
-- [Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)],
+- [Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/),
   Quanta Magazine (2026).
 
 - A. Nazaryan, [Can A.I. Quicken the Pace of Math Discovery?](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html), New York
