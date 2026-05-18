@@ -1,6 +1,6 @@
 Instructions for starting in Lean:
 
-On the reading materials section, follow the instructions for installing lean (first link).
+Within [ReadingMaterials](ReadingMaterials.md), follow the instructions for installing lean (first link).
 
 Download the book Mathematics in Lean (second link).
 
