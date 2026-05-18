@@ -40,31 +40,28 @@
 - [[leanprover.zulipchat.com](http://leanprover.zulipchat.com/)],
   in the #math channel is a discussion board on Lean
 
-- [How to contribute to
-  Mathlib](https://leanprover-community.github.io/contribute/index.html)
+- [[How to contribute to  Mathlib](https://leanprover-community.github.io/contribute/index.html)]
   there are high standards, a serious style guide, and a strict LLM
   policy
 
 **Relevant Popular Science Articles:**
 
-- T. Tao, Machine-Assisted Proof, Notices of the American Mathematical
+- T. Tao, [[Machine-Assisted Proof](https://www.ams.org/notices/202501/rnoti-p6.pdf), Notices of the American Mathematical
   Society, 72 (2025), No. 1, 6-13.
-  [[Link](https://www.ams.org/notices/202501/rnoti-p6.pdf)]
 
-- Quantum Magazine Articles
-  [[Link](https://www.quantamagazine.org/tag/computer-assisted-proofs/)]
 
-- Using AI, Mathematicians Find Hidden Glitches in Fluid Equations,
+- [[Quantum Magazine Articles](https://www.quantamagazine.org/tag/computer-assisted-proofs/)]
+
+- [[Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)]],
   Quanta Magazine (2026).
-  [[Link](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)]
 
-- A. Nazaryan, Can A.I. Quicken the Pace of Math Discovery? New York
+- A. Nazaryan, [[Can A.I. Quicken the Pace of Math Discovery?](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html)] New York
   Times (2025).
-   [[Link](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html)]
+  
 
-- DeepSeek's self-correcting AI model aces tough maths proofs,
+- [[DeepSeek's self-correcting AI model aces tough maths proofs,](https://www.nature.com/articles/d41586-025-03959-9)]
   Nature (2025)
-  [[Link](https://www.nature.com/articles/d41586-025-03959-9)]
+  
 
 - S. Roberts, These Mathematicians Are Putting A.I. to the Test, New
   York Times, February 7, 2026.
