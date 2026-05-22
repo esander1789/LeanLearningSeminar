@@ -49,4 +49,4 @@
 
 - Alex Kontorovich, [The Shape of Math To Come](https://arxiv.org/abs/2510.15924), to appear, Proceedings of   the ICM, 2026.
   
--  Joseph Howlett, [OpenAI announces AI’s biggest math breakthrough yet](https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/), Scientific American, Mary 21, 2026.  
+-  Joseph Howlett, [OpenAI announces AI’s biggest math breakthrough yet](https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/), Scientific American, May 21, 2026.  
