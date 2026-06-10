@@ -33,6 +33,8 @@
 
 - T. Tao, [Machine-Assisted Proof](https://www.ams.org/notices/202501/rnoti-p6.pdf), Notices of the American Mathematical   Society, 72 (2025), No. 1, 6-13.
 
+- K. Hartnett, [The Proof in the Code](https://www.quantabooks.org/books/the-proof-in-the-code/), Quanta Books, 2026. 
+
 
 - [Quantum Magazine Articles on the Topic of Computer Assisted Proofs](https://www.quantamagazine.org/tag/computer-assisted-proofs/).
 
