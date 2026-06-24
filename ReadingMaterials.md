@@ -28,8 +28,13 @@
 
 - [How to contribute to mathlib](https://leanprover-community.github.io/contribute/index.html), there are high standards, a serious style guide, and a strict LLM
   policy
+  
+- [The Leiden Declaration](https://leidendeclaration.ai) This is a declaration of best practices in AI usage that is critical for anyone who is considering using computers together with mathematics, especially any sort of AI. 
 
 **Relevant Popular Science Articles:**
+
+- G. Barber, [They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html), 
+New York Times, June 8, 2026. 
 
 - T. Tao, [Machine-Assisted Proof](https://www.ams.org/notices/202501/rnoti-p6.pdf), Notices of the American Mathematical   Society, 72 (2025), No. 1, 6-13.
 
