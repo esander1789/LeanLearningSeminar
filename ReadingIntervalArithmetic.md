@@ -14,7 +14,7 @@ Computer Assisted Proofs in Applied Math
 
 - Moore, Ramon E., R. Baker Kearfott, and Michael J. Cloud. Introduction to interval analysis. Society for Industrial and Applied Mathematics, 2009.
 
-**Other Relevant Books** (purple denotes that these books are specifically about computer assisted proofs)
+**Other Relevant Books and Articles** (purple denotes that these books are specifically about computer assisted proofs)
 
 - K. T. Alligood, T. D. Sauer, and J. A. Yorke, Chaos: An introduction to dynamical systems, Textbooks in Mathematical Sciences, Springer, Cham, Switzerland, 1997, ISBN 0-387-94677-2.
 
