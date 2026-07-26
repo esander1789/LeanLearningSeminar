@@ -53,3 +53,5 @@ Computer Assisted Proofs in Applied Math
 - J. B. van den Berg and J.-P. Lessard (eds.), Rigorous numerics in dynamics (Seattle, WA, 2016), Proceedings of Symposia in Applied Mathematics 74, American Mathematical Society, Providence, RI, 2018, ISBN 978-1-4704-2814-3.
 
 - Communications in Nonlinear Science and Numerical Simulation, 2022, Special issue on "Computer Assisted Proofs in Dynamical Systems", Elsevier, Amsterdam, Netherlands. ISSN 1007-5704, e-ISSN 1878-727.
+
+- E. Sander and T. Wanner, Validated saddle-node bifurcations and applications to lattice dynamical systems. SIADS, 2016.
