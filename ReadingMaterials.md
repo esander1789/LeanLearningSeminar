@@ -40,20 +40,22 @@ New York Times, June 8, 2026.
 
 - K. Hartnett, [The Proof in the Code](https://www.quantabooks.org/books/the-proof-in-the-code/), Quanta Books, 2026. 
 
-
 - [Quantum Magazine Articles on the Topic of Computer Assisted Proofs](https://www.quantamagazine.org/tag/computer-assisted-proofs/).
 
 - [Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/),  Quanta Magazine (2026).
 
 - A. Nazaryan, [Can A.I. Quicken the Pace of Math Discovery?](https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html), New York  Times (2025).
   
-
 - [DeepSeek's self-correcting AI model aces tough maths proofs,](https://www.nature.com/articles/d41586-025-03959-9),  Nature (2025)
   
-
 - S. Roberts, [These Mathematicians Are Putting A.I. to the Test](https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html), New  York Times, February 7, 2026.
-
 
 - Alex Kontorovich, [The Shape of Math To Come](https://arxiv.org/abs/2510.15924), to appear, Proceedings of   the ICM, 2026.
   
 -  Joseph Howlett, [OpenAI announces AI’s biggest math breakthrough yet](https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/), Scientific American, May 21, 2026.  
+
+- Joseph Howlett, [AI uncovers solutions to Erdős problems, moving closer to transforming math](https://www.scientificamerican.com/article/ai-uncovers-solutions-to-erdos-problems-moving-closer-to-transforming-math/), Scientific American, February 12, 2026.
+  *(Sawhney, Sellke, Tao et al.: ~100 open Erdős problems resolved with LLM assistance since Oct. 2025)*
+
+- Maxwell Zeff, [OpenAI and Google outdo the mathletes, but not each other](https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other), TechCrunch, July 21, 2025.
+  *(Gemini / OpenAI: gold-medal-level scores on IMO 2025)*
