@@ -55,7 +55,6 @@ New York Times, June 8, 2026.
 -  Joseph Howlett, [OpenAI announces AI’s biggest math breakthrough yet](https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/), Scientific American, May 21, 2026.  
 
 - Joseph Howlett, [AI uncovers solutions to Erdős problems, moving closer to transforming math](https://www.scientificamerican.com/article/ai-uncovers-solutions-to-erdos-problems-moving-closer-to-transforming-math/), Scientific American, February 12, 2026.
-  *(Sawhney, Sellke, Tao et al.: ~100 open Erdős problems resolved with LLM assistance since Oct. 2025)*
-
+ 
 - Maxwell Zeff, [OpenAI and Google outdo the mathletes, but not each other](https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other), TechCrunch, July 21, 2025.
-  *(Gemini / OpenAI: gold-medal-level scores on IMO 2025)*
+ 
