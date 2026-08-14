@@ -4,7 +4,7 @@ Instructions for starting in Lean:
 
 - Download the book Mathematics in Lean (second link).
 
-- When you open VSCode, start a new folder inside of the folder where you put Mathematics In Lean. 
+- When you open VSCode, start a new folder inside of the folder where you put Mathematics In Lean. Alternatively, use the web-based Lean, which does not involve VSCode. 
 
 - Add the .lean codes that I included in this folder. 
 
