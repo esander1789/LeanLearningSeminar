@@ -2,6 +2,8 @@
 
 - [Instructions for Installing  Lean](https://lean-lang.org/install/)
 
+- [Web Based Lean](https://live.lean-lang.org) is an alternative to installing Lean
+
 - [Mathematics in Lean  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)
   
 <!-- -->
