@@ -20,6 +20,8 @@
 
 - [Theorem Proving in  Lean](https://leanprover.github.io/theorem_proving_in_lean4/)
 
+- [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html) (a textbook on proofs and Lean by Heather Macbeth)
+
 - [A List of Papers about Lean, Mathlib, and Formalized  Proofs](https://leanprover-community.github.io/papers.html)   (from the Lean Prover Community) 
 
 - [How to Find Theorems in Mathlib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/)
