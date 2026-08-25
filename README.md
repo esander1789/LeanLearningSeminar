@@ -1,6 +1,6 @@
 Instructions for starting in Lean:
 
-- Within [ReadingMaterials](ReadingMaterials.md), follow the instructions for installing lean (first link).
+- Within [ReadingMaterials](ReadingMaterials.md), follow the instructions for installing lean. You can use a web version, or install using VSCode. 
 
 - Download the book Mathematics in Lean (second link).
 
