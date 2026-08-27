@@ -5,6 +5,8 @@
 - [Web Based Lean](https://live.lean-lang.org) is an alternative to installing Lean
 
 - [Mathematics in Lean  Textbook](https://leanprover-community.github.io/mathematics_in_lean/)
+ 
+- [Lean Game Server](https://adam.math.hhu.de)
   
 <!-- -->
 
