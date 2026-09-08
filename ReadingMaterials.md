@@ -1,5 +1,7 @@
 **Lean Specific Readings**
 
+- Evelyn Sander, [Computer Assisted Proofs in the Mathematical Sciences](GMUCAPTalk.pdf), Lean Learning Seminar,  George Mason University, Fairfax, VA, August 26, 2026.  
+
 - [Instructions for Installing  Lean](https://lean-lang.org/install/)
 
 - [Web Based Lean](https://live.lean-lang.org) is an alternative to installing Lean
