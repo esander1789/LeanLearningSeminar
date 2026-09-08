@@ -39,6 +39,8 @@
 
 **Relevant Popular Science Articles:**
 
+- Anthropic, [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem), September 4, 2026
+
 - G. Barber, [They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html), 
 New York Times, June 8, 2026. 
 
