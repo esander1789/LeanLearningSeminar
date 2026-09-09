@@ -42,7 +42,7 @@
 **Relevant Popular Science Articles:**
 
 -  Navier-Stokes:
-	- Cade Metz, [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share) (namely Navier-Stokes), New York Times,  September 8, 2026. 
+	- Cade Metz, [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share), New York Times,  September 8, 2026. 
 
 	- Russell Brandom, [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/), Tech Crunch, September 8, 2026.
 
