@@ -41,9 +41,13 @@
 
 **Relevant Popular Science Articles:**
 
--  Cade Metz, [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share) (namely Navier-Stokes), New York Times,  September 8, 2026. 
+-  Navier-Stokes:
+	- Cade Metz, [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share) (namely Navier-Stokes), New York Times,  September 8, 2026. 
 
-- Russell Brandom, [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/), Tech Crunch, September 8, 2026.
+	- Russell Brandom, [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/), Tech Crunch, September 8, 2026.
+
+	- 
+Konstantin Kakaes, [AI Has Solved One of Math’s $1 Million Millennium Prize Problems](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/), Quanta Magazine, September 8, 2026. 
 
 - Anthropic, [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem), September 4, 2026. And here is the [announcement of the same result in Nature](https://www.nature.com/articles/d41586-026-02822-9)
 
