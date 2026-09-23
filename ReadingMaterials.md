@@ -7,6 +7,8 @@
 	- [1basics.lean](1basics.lean)
 	- [2transitiveES.lean](2transitiveES.lean)
 	- [3setupproof.lean](3setupproof.lean)
+	- [4littleprimetheorem.lean](4littleprimetheorem.lean)
+	- [5irrationality.lean](5irrationality.lean)
 
 - Bartosz Furmanek's notes from September 16, 2026: 		
 	- [Bartosz_Naturals.lean](Bartosz_Naturals.lean)
