@@ -15,6 +15,8 @@
 	- [Bartosz_proof.cpp](Bartosz_proof.cpp)
 	- [Bartosz_Properties.lean](Bartosz_Properties.lean)
 
+- Evelyn Sander, [Mathlib and Other Lean Contributions](Contributing_to_Formalization.pdf), October 7, 2026. 
+
 - [Instructions for Installing  Lean](https://lean-lang.org/install/)
 
 - [Web Based Lean](https://live.lean-lang.org) is an alternative to installing Lean
@@ -53,6 +55,8 @@
 - [The Leiden Declaration](https://leidendeclaration.ai) This is a declaration of best practices in AI usage that is critical for anyone who is considering using computers together with mathematics, especially any sort of AI. 
 
 **Relevant Popular Science Articles:**
+
+- Kenneth Chang and Siobhan Roberts, [OpenAI Releases Findings on 377 Math Problems, Further Roiling Field](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html), New York Times, October 6, 2026. 
 
 -  Navier-Stokes:
 	- Cade Metz, [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share), New York Times,  September 8, 2026. 
