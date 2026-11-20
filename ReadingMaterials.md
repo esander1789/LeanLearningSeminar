@@ -56,6 +56,13 @@
 
 **Relevant Popular Science Articles:**
 
+- Two Millennium problems in one day: 
+	- Peter Hall, [After months of controversy, AI finally solved the ‘real’ Navier-Stokes problem](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/), November 20, 2026. 
+
+	- Joseph Howlett, [Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), Scientific American, November 20, 2026.
+
+-  Kevin Buzzard, [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/), Xena blog, November 12, 2026.
+
 - Kenneth Chang and Siobhan Roberts, [OpenAI Releases Findings on 377 Math Problems, Further Roiling Field](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html), New York Times, October 6, 2026. 
 
 -  Navier-Stokes:
