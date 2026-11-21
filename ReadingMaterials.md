@@ -56,10 +56,23 @@
 
 **Relevant Popular Science Articles:**
 
+When I started keeping this section in July 2026, it was out of interest for a sort of niche part 
+of math that I was super excited about. Who knew that it would be such fortitous timing and that 
+the whole world would get excited about it at the same time? Anyway, enjoy this little 
+history of how it all unfolded.
+
+At this point I believe that November 20, 2026 will be known as a day to remember. We have reached 
+where AI is to math like the telescope is to astronomy. Yes, you can decide to look at the stars 
+without a telescope, but if you want to be an astronomer, then you have no choice but to use 
+the equipment. 
+
+
 - Two Millennium problems in one day: 
 	- Peter Hall, [After months of controversy, AI finally solved the ‘real’ Navier-Stokes problem](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/), November 20, 2026. 
 
 	- Joseph Howlett, [Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), Scientific American, November 20, 2026.
+
+	- Kenneth Chang and Siobhan Roberts, [Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem](https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html), New York Times, November 20, 2026. (I added this article partially because it adds context, partially because it is behind a different firewall, and partially because I am celebrating this amazing achievement.)
 
 -  Kevin Buzzard, [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/), Xena blog, November 12, 2026.
 
