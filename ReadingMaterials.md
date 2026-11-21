@@ -56,13 +56,13 @@
 
 **Relevant Popular Science Articles:**
 
-When I started keeping this section in July 2026, it was out of interest for a sort of niche part 
+When I started keeping this section in spring 2026, it was out of interest for a sort of niche part 
 of math that I was super excited about. Who knew that it would be such fortitous timing and that 
 the whole world would get excited about it at the same time? Anyway, enjoy this little 
 history of how it all unfolded.
 
 At this point I believe that November 20, 2026 will be known as a day to remember. We have reached 
-where AI is to math like the telescope is to astronomy. Yes, you can decide to look at the stars 
+the point where AI is to math like the telescope is to astronomy. Yes, you can decide to look at the stars 
 without a telescope, but if you want to be an astronomer, then you have no choice but to use 
 the equipment. 
 
